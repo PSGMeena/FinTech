@@ -1,0 +1,19 @@
+Date,Description,Debit,Credit
+01-01-2024,Opening Balance,0,100000
+05-01-2024,Sale - Order #001,0,45000
+07-01-2024,Purchase Raw Material,20000,0
+12-01-2024,Office Rent,15000,0
+15-01-2024,Sale - Order #002,0,32000
+20-01-2024,Utility Bill,4500,0
+25-01-2024,Staff Salaries,55000,0
+02-02-2024,Sale - Order #003,0,60000
+05-02-2024,Purchase Raw Material,25000,0
+10-02-2024,Marketing Expense,12000,0
+15-02-2024,Sale - Order #004,0,48000
+20-02-2024,Logistics,3000,0
+25-02-2024,Staff Salaries,55000,0
+05-03-2024,Sale - Order #005,0,75000
+08-03-2024,Equipment Repair,8500,0
+15-03-2024,Sale - Order #006,0,50000
+20-03-2024,Tax Payment,12000,0
+25-03-2024,Staff Salaries,55000,0
